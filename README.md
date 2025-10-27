@@ -1,4 +1,9 @@
 ## Hi there 👋
+My name is Adrià, I'm a mathematics student and interested in improving my coding skills in Python and C/C++.
+
+- 🔭 I’m currently working on a [Connect 4](https://github.com/adrijiru/Connect-4) game made in C that uses a Minimax algorithm to power an AI player.
+- 🌱 I’m currently learning Python, C/C++ and Java.
+- 🖌️ I love making art (digital painting and sculpting) and I want to create a videogame in the near future.
 
 <!--
 **adrijiru/adrijiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
